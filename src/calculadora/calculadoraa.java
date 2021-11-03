@@ -21,7 +21,7 @@ public class calculadoraa {
 			 
 			 System.out.println(numero + " x " + multiplicador + " = "+ total); 
 			
-        	multiplicador  = multiplicador  + 1;
+        	multiplicador++;
 			
 		}
 	}
